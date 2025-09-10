@@ -1,7 +1,7 @@
 # 👋
 # Hey there, I'm Mo - and welcome to my digital mancave
 
-I'm a Software Engineering Lecturer and a passionate Digital Engineer. From graphics to software, I'm the founder of MM Vault, a digital engineering company dedicated to building solutions for small businesses and startups. Coding is my favorite pursuit. It's how I challenge myself and bring crazy ideas to life, whether it's a game or an app that solves a problem.
+I'm a Software Engineering Lecturer and a passionate Digital Engineer. From graphics to software, I'm also the founder of MM Vault, a digital engineering company dedicated to building solutions for small businesses and startups. Coding is my favorite pursuit. It's how I challenge myself and bring crazy ideas to life, whether it's a game or an app that solves a problem.
 
 🎯 Let's Connect!
 [LinkedIn](https://linkedin.com/in/oregomoditse-makinta-612a4b1a0/) 
