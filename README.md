@@ -3,7 +3,7 @@
 
 I'm a Software Engineering Lecturer and a passionate Digital Engineer. From graphics to software, I'm also the founder of MM Vault, a digital engineering company dedicated to building solutions for small businesses and startups. Coding is my favorite pursuit. It's how I challenge myself and bring crazy ideas to life, whether it's a game or an app that solves a problem.
 
-🎯 Let's Connect!
+Let's Connect!
 [LinkedIn](https://linkedin.com/in/oregomoditse-makinta-612a4b1a0/) 
 [Instagram](https://instagram.com/mo.makinta/)
 Feel free to poke around my repositories! If you find something interesting or want to collaborate on a wild idea, don't be shy. I'm always up for a new challenge.
